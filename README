@@ -1,0 +1,8 @@
+this is library for SGS2-BLN
+rename to your phone product name
+
+for jpn sgs2 SC-02C
+mv lights.PRODUCTNAME.so lights.SC-02.so
+
+etc..
+
